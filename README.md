@@ -2,7 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=40EDF7&lines=I+am+Fiza+Ali)](https://git.io/typing-svg)
 
-<img src="https://user-images.githubusercontent.com/60574055/183017625-af0779ae-0090-406c-867b-1e8ba1995484.gif" alt="coding monke" width="380"/>
+<img src="https://tbcdn.talentbrew.com/company/375/21388/content/gif-icon-1.gif" alt="coding monke" width="380"/>
+<img align="top" align="right" src="http://www.google.com/logos/doodles/2015/googles-new-logo-5078286822539264.3-hp2x.gif" alt="coding monke" width="380"/>
 
 - 😄 I am a final year undergrad student  **B.Tech(C.S.E.)**.
 - 🌱 I’m currently doing online freelancing work .
