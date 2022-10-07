@@ -12,9 +12,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4500&pause=10&width=700&lines=Stats%3A+%E2%9C%A8)](https://git.io/typing-svg)
 
-<img src="https://github-readme-stats.vercel.app/api?username=fiza0786&show_icons=true&theme=tokyonight" alt="darakhsha's GitHub stats" width="400"/> [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fiza0786&theme=radical&layout=compact)](https://git.io/streak-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=fiza0786&show_icons=true&theme=tokyonight" alt="darakhsha's GitHub stats" width="400"/> <img src="https://github-readme-streak-stats.herokuapp.com?user=fiza0786&theme=radical" alt="darakhsha's GitHub stats" width="400"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiza0786&show_icons=true&theme=tokyonight" alt="darakhsha's GitHub stats" width="300"/>
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darakhshadeepak&layout=compact) -->
+
 
 
 ---
