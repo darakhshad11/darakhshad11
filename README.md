@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4500&pause=10&width=700&lines=I+am+Fiza+Ali)](https://git.io/typing-svg)
 
 ***
-<img src="https://tbcdn.talentbrew.com/company/375/21388/content/gif-icon-1.gif" alt="coding monke" width="380"/> <img align="right" src="http://www.google.com/logos/doodles/2015/googles-new-logo-5078286822539264.3-hp2x.gif" alt="coding monke" width="500"/>
+<img src="https://tbcdn.talentbrew.com/company/375/21388/content/gif-icon-1.gif" alt="coding monke" width="380"/> <img align="right" src="http://www.google.com/logos/doodles/2015/googles-new-logo-5078286822539264.3-hp2x.gif" alt="coding monke" width="380"/>
 ***
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=1000&width=700&lines=%F0%9F%98%84+I+am++undergrad+student+B.Tech(CSE))](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=1000&width=700&lines=%F0%9F%8C%B1+I%E2%80%99m+currently+doing+online+freelancing+work+)](https://git.io/typing-svg)
