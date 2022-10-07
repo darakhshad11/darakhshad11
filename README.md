@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=40EDF7&lines=I+am+Fiza+Ali)](https://git.io/typing-svg)
 
 <img src="https://tbcdn.talentbrew.com/company/375/21388/content/gif-icon-1.gif" alt="coding monke" width="380"/>
-<img align="top" align="right" src="http://www.google.com/logos/doodles/2015/googles-new-logo-5078286822539264.3-hp2x.gif" alt="coding monke" width="380"/>
+<img src="http://www.google.com/logos/doodles/2015/googles-new-logo-5078286822539264.3-hp2x.gif" alt="coding monke" width="380"/>
 
 - 😄 I am a final year undergrad student  **B.Tech(C.S.E.)**.
 - 🌱 I’m currently doing online freelancing work .
@@ -13,7 +13,8 @@
 
 # Stats: ✨
 
-<img src="https://github-readme-stats.vercel.app/api?username=fiza0786&show_icons=true&theme=tokyonight" alt="fiza0786's GitHub stats" width="400"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=fiza0786&theme=dark)" alt="fiza0786's GitHub streak" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api?username=fiza0786&show_icons=true&theme=tokyonight" alt="fiza0786's GitHub stats" width="400"/> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=fiza0786&theme=dark)" alt="fiza0786's GitHub streak" width="400"/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fiza0786&layout=compact)
 
