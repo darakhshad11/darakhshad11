@@ -13,10 +13,10 @@
 
 # Stats: ✨
 
-<img src="https://github-readme-stats.vercel.app/api?username=fiza0786&show_icons=true&theme=tokyonight" alt="fiza0786's GitHub stats" width="400"/> 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fiza0786&theme=dark)" alt="fiza0786's GitHub streak" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api?username=fiza0786&show_icons=true&theme=tokyonight" alt="darakhsha's GitHub stats" width="400"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=fiza0786&theme=dark)" alt="stats's GitHub streak" width="400"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fiza0786&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darakhshadeepak&layout=compact)
+
 
 ---
 
