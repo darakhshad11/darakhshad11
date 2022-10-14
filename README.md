@@ -18,7 +18,8 @@
 
 
 ---
-
+[![@darakhsha11's Holopin board](https://holopin.me/darakhsha11)](https://holopin.io/@darakhsha11)
+---
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4500&pause=10&width=700&lines=Socials%3A)](https://git.io/typing-svg)
 
 <p align="left">
