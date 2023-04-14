@@ -12,8 +12,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4500&pause=10&width=700&lines=Stats%3A+%E2%9C%A8)](https://git.io/typing-svg)
 
-<img src="https://github-readme-stats.vercel.app/api?username=fiza0786&show_icons=true&theme=tokyonight" alt="darakhsha's GitHub stats" width="400"/> <img src="https://github-readme-streak-stats.herokuapp.com?user=fiza0786&theme=radical" alt="darakhsha's GitHub stats" width="400"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiza0786&show_icons=true&theme=tokyonight" alt="darakhsha's GitHub stats" width="300"/>
+<img src="https://github-readme-stats.vercel.app/api?username=darakhshad11&show_icons=true&theme=tokyonight" alt="darakhsha's GitHub stats" width="400"/> <img src="https://github-readme-streak-stats.herokuapp.com?user=darakhshad11&theme=radical" alt="darakhsha's GitHub stats" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darakhshad11&show_icons=true&theme=tokyonight" alt="darakhsha's GitHub stats" width="300"/>
 
 
 
@@ -23,7 +23,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4500&pause=10&width=700&lines=Socials%3A)](https://git.io/typing-svg)
 
 <p align="left">
-<a href="https://github.com/fiza0786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="https://github.com/fiza0786" height="30" width="40" /></
+<a href="https://github.com/darakhshad11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="https://github.com/darakhshad11" height="30" width="40" /></
 <a href="https://linkedin.com/in/fiza0786-08032003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fiza0786-08032003" height="30" width="40" /></a>
 
  
